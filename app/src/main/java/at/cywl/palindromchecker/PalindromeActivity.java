@@ -32,7 +32,7 @@ public class PalindromeActivity extends AppCompatActivity {
     /**
      * Check if given string is a palindrome
      * @param target string to check
-     * @return 0 if given string is a palindrome, 1 if string is null and 2 if the strins length is < 5
+     * @return status message
      */
     protected static String IsPalindrome(Context ctx, String target) {
         if (target == null) return ctx.getString(R.string.text_target_is_null);
