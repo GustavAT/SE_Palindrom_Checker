@@ -1,1 +1,1 @@
-# SE_Palindrom_Checker
+# Palindrom Checker for Software Engineering 2
