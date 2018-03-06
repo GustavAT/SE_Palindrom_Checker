@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Palindrom Checker</string>
-    <string name="text_textfield">Enter a string</string>
-    <string name="textfield_palindrome">Enter a string</string>
+    <string name="text_text_field">Enter a string</string>
+    <string name="textview_palindrome">Enter a string</string>
     <string name="text_check">Check</string>
+    <string name="text_target_is_null">Given string is null!</string>
+    <string name="text_string_too_short">Given string must have at least 5 characters!</string>
+    <string name="text_palindrome">Palindrome</string>
+    <string name="text_not_palindrome">Not a palindrome</string>
+    <string name="text_about">About</string>
+    <string name="text_exit">Exit</string>
 </resources>
